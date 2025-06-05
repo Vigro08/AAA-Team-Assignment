@@ -1,0 +1,16 @@
+[project]
+name = "aaa-assignment-env"
+version = "0.1.0"
+description = "AAA-Team-Assignment"
+readme = "README.md"
+requires-python = ">=3.9.0, <3.12.0"
+dependencies = [
+  "pandas",
+  "geopandas>=1.0.0",
+  "h3>=3.7.0",
+  "haversine>=2.9.0",
+  "matplotlib>=3.9.0",
+  "pip>=25.0.0",
+  "pqdm>=0.2.0",
+  "statsmodels>=0.14.0",
+]
