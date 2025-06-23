@@ -13,4 +13,5 @@ dependencies = [
   "pip>=25.0.0",
   "pqdm>=0.2.0",
   "statsmodels>=0.14.0",
+  "ipykernel",
 ]
